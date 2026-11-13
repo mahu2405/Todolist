@@ -1,0 +1,26 @@
+body {
+    background:url(./Dreamy\ Lavender\ Workspace\ with\ Motivation.png);
+    background-size:cover;
+}
+
+.main-box {
+    background: white;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.task-item {
+    background: #f5f0ff;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.bg-lavender{
+    background-color: #D8B4E2;
+}
+.bg-lavender:hover{
+    background-color: #D8B4E2;
+}
+.bg-lavender1{
+    border: 1px solid plum;
+}
